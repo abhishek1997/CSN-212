@@ -101,3 +101,18 @@ int main()
 	// cout << fixed << setprecision(6) << "Time: " << ((double)clk)/CLOCKS_PER_SEC << "\n";
 	return 0;
 }
+/*
+Sample Input :
+3
+2
+0 0
+3
+3 2 1
+6
+4 8 6 1 5 2
+
+Sample Output :
+1
+2
+4
+*/
